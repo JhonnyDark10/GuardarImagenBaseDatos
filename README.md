@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Repositorio Flores Jhonny
 
-GuardarImagen de Base Datos Posgrest.
+Guardar Imagen de Base Datos a Posgrest.
 
 Para su desarrollo se uso:
 
